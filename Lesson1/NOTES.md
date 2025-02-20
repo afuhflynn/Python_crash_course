@@ -11,6 +11,14 @@
     - [Pascal casing](#1-pascalcasing)
     - [Camel casing](#2-camelcasing)
     - [All lower case](#2-all_lower_case)
+- [Variable types in python](#variable-type)
+  - [Number type](#number-type)
+  - [Character type](#character-type)
+  - [Boolean type](#boolean-type)
+  - [Object type](#object-type)
+    - [String type](#string-type)
+    - [List type](#list-type)
+    - [Dictionary type](#dictionary-type)
 
 ## Variable
 
@@ -100,3 +108,95 @@ all_long_pigs = 80 # More readable.
 ```
 
 **NB:** This is the most used naming convention in python.
+
+## Variable type
+
+The type of a variable is **The type of value or data it can store**
+
+**_There are primarily 4 types of variables in python, each with or without subtypes:_**
+
+### Number type
+
+A number is a numerical value (10, 30, 0.4, etc.).
+There a two types of numbers in python: **integers** and **floats**.
+
+``` python
+# integer
+age = 19
+# float
+GPA = 4.8
+print(age, GPA) # 19, 4.8
+```
+
+### Character type
+
+A character is made up of a single alphabet, symbol, number, etc. (e.g a, b, 8, /, +, etc.).
+Here, **We enclose the value in between single quotes ('8', 'a')**
+
+``` python
+# character
+gender = 'M'
+print(gender) # M
+```
+
+### Boolean type
+
+A boolean is a type that can hold either of two values **i.e (True or False)**
+
+``` python
+# boolean
+isFull = False
+
+print(isFull) # False
+print(isFull == False) # True
+print(isFull == True) # False
+```
+
+### Object type
+
+An object type is a type whose definition comes from combination of other types.
+It is primarily made up of **(Strings, Lists, Dictionaries).**
+
+#### String type
+
+A string is a collection or combination or sequence of characters.
+It is usually enclosed in between **single or double quotes: '' or ""**
+
+```python
+# String
+name = "Afuh Flynn"
+gender = 'Male'
+year = "2025"
+print(name, gender, year) # Afuh Flynn, Male, 2025
+```
+
+#### List type
+
+A list is an ordered collection or combination of values.
+It is usually enclosed in between **square brackets: []**
+
+```python
+# List
+a = ["John", "Flynn", 8, 10, True, False]
+## Here we use indexes to access values which will be explained in subsequent chapters
+print(a[0]) # John
+print(a[4]) # True
+```
+
+#### Dictionary type
+
+A dictionary is an unordered collection or combination of **values pairs**.
+**Each value has its unique key that identifies it e.g {name: "Afuh", age: 19}**
+It is usually enclosed in between **curly braces: i.e {} e.g {key1: value1, key2: value2}**
+
+```python
+# List
+a = {name: "Afuh", age: 19}
+## Here we use indexes of key if found or dot (.) notation to access values which will be explained in subsequent chapters
+print(a[name]) # Afuh
+# or
+print(a.name) # Afuh
+print(a[age]) # 19
+# or
+print(a.age) # 19
+```

@@ -7,3 +7,7 @@
 
 # Ignore editor based folders and files
 .vscode
+
+
+new_time_table.tex
+make_pdf.py

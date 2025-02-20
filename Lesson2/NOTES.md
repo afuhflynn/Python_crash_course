@@ -24,7 +24,12 @@
 
 ## String
 
-Below, are examples of strings
+A string is a collection of characters and each character can be indexed to get it's value
+
+NB: Strings in python can be written by using single or double quotes. This allows us to use
+single quotes within double quotes an vice versa
+
+Below, are examples of strings:
 
 ```python
 # Creating a string with double quotes
