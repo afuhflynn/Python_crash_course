@@ -3,7 +3,7 @@ from math import pi, log10, factorial # This imports the pi, log base 10 and fac
 
 
 # Author: Afuh Flyine Tembeng
-# This is a collection or my work on explaining the concept of numbers. (Each work here has it's own NOTES.md file)
+# This is a collection of my work on explaining the concept of numbers. (Each work here has it's own NOTES.md file)
 ## Contact:
 # email: flyinnsafuh@gmail.com
 # Github: https://github.com/AfuhFlynns
