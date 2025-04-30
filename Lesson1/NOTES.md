@@ -10,7 +10,7 @@
   - [Naming conventions](#naming-conventions)
     - [Pascal casing](#1-pascalcasing)
     - [Camel casing](#2-camelcasing)
-    - [All lower case](#2-all_lower_case)
+    - [Snake case](#2-snake_case)
 
 ## Variable
 
@@ -87,7 +87,7 @@ e.g
 myName = "John Flynn"
 ```
 
-#### 2. all_lower_case
+#### 2. snake_case
 
 Here, all letters in the in the variable name are lower case. **It is avisiable to use underscores ( _ )** in naming variables to make it more readable
 
