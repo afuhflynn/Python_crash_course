@@ -10,16 +10,7 @@
   - [Naming conventions](#naming-conventions)
     - [Pascal casing](#1-pascalcasing)
     - [Camel casing](#2-camelcasing)
-    - [All lower case](#2-all_lower_case)
-- [Variable types in python](#variable-type)
-  - [Number type](#number-type)
-  - [Character type](#character-type)
-  - [Boolean type](#boolean-type)
-  - [Object type](#object-type)
-    - [String type](#string-type)
-    - [List type](#list-type)
-    - [Dictionary type](#dictionary-type)
-
+    - [Snake case](#2-snake_case)
 ## Variable
 
 A variable is a **container or store** for storing data in a program. or a Variable is a **label** for data that can be assigned a value.
@@ -95,7 +86,7 @@ e.g
 myName = "John Flynn"
 ```
 
-#### 2. all_lower_case
+#### 2. snake_case
 
 Here, all letters in the in the variable name are lower case. **It is avisiable to use underscores ( _ )** in naming variables to make it more readable
 

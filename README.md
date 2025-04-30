@@ -2,7 +2,7 @@
 
 ## Todo (insert a banner image if my avatar or just a qoute banner)
 
-![Banner image](../assets/Banner_Image.svg)
+![Banner image](./python_banner.jpeg)
 
 In this course I got hands on expirience with python practical and theoritical exercises and tips for getting better
 at programming.
