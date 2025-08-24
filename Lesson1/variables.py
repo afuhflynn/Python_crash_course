@@ -1,10 +1,10 @@
 ## Variables in python
 
-# Author: Afuh Flyine Tembeng
+# Author: Afuh Flynn Tembeng
 # This is a collection of my work on explaining the concept of variables. (Each work here has it's own NOTES.md file)
 ## Contact:
 # email: flyinnsafuh@gmail.com
-# Github: https://github.com/AfuhFlynns
+# Github: https://github.com/afuhflynn
 # Tel: +237675171796
 
 

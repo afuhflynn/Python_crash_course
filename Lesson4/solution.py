@@ -1,10 +1,10 @@
 # Exercise solution
 
 # Exercise 1
-# Author: Afuh Flyine Tembeng
+# Author: Afuh Flynn Tembeng
 # 24/04/2025
 # This program prints out my name
-author_name = "Afuh Flyine Tembeng"
+author_name = "Afuh Flynn Tembeng"
 print(f"The Author of this program's name is: {author_name}")
 
 # Exercise 2

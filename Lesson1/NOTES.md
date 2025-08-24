@@ -4,14 +4,16 @@
 
 - [Welcome to python variables](#python-variables)
 - [Table of content](#table-of-content)
-- [Variables in  python](#variable)
+- [Variables in  python](#variables-in-python)
   - [Naming a variable](#naming-a-variable)
     - [Rules for naming variables](#a-variable-name-can)
   - [Naming conventions](#naming-conventions)
     - [Pascal casing](#1-pascalcasing)
     - [Camel casing](#2-camelcasing)
     - [Snake case](#2-snake_case)
-## Variable
+  - [Exercise Details](#exercise-details)
+
+## Variables in Python
 
 A variable is a **container or store** for storing data in a program. or a Variable is a **label** for data that can be assigned a value.
 
@@ -191,3 +193,7 @@ print(a[age]) # 19
 # or
 print(a.age) # 19
 ```
+
+## Exercise Details
+
+Don't forget to check the exercises at: [Variables Practical exercises](./Exercises.txt) or it's solution at: [Solution](./solution.py)

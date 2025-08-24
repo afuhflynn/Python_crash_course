@@ -11,4 +11,4 @@
 
 ## Exercise Details
 
-Don't forget to check the exercises at: [Lists Practical exercises](./Exercises.txt) or it's solution at: [Solution](./solution.py)
+Don't forget to check the exercises at: [Working with Lists Practical exercises](./Exercises.txt) or it's solution at: [Solution](./solution.py)

@@ -30,7 +30,7 @@ _There are two types of numbers in python:_
 
 #### Integer numbers
 
-These are whole number values with decimal points.
+These are whole number values with no decimal points.
 e.g
 
 ```python
@@ -42,7 +42,7 @@ print(age, children, wives) # 19, 4, 1
 
 #### Float numbers
 
-These are whole decimal point numbers.
+These are whole number values with decimal points.
 e.g
 
 ```python
@@ -84,7 +84,7 @@ print(num1 / num2) # 0.5
 
 #### Modulus operation
 
-In this case, we use the % symbol on the keyboard.
+In this case, we use the % symbol.
 
 e.g
 
@@ -95,8 +95,11 @@ print(mod) # 2
 
 #### Exponential and logarithmic and factorial operations
 
-In this case, we can either **import the pi, log10 or log and factorial from math module functions in built into python**
-Or we write the code manually **For convenience purposes, we will make use of the in-built functions and write the code manually in advance topics (loops, conditionals)**
+In this case, we can either use in-built python modules Or we write the code manually
+
+- **import the pi, log10 or log and factorial from math module functions in built into python**
+
+- **For convenience purposes, we will make use of the in-built functions and write the code manually in advance topics (loops, conditionals)**
 
 ```python
 from math import pi, log10, factorial # Inbuilt functions in the python math module
@@ -110,7 +113,7 @@ print(factorial(num)) # 4 * 3 * 2 * 1 = 24
 
 #### Python float and integer operations
 
-##### _NB: Python by default prioritizes floats (It outputs a float for float and integer operations)_
+##### _NB: Python by default prioritizes floats (It outputs a float, for float and integer operations)_
 
 ```python
 num = 20
